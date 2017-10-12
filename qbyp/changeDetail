@@ -1,0 +1,13 @@
+1、积分商城使用原“会员专区（IsVipLevel）”标志进行控制
+2、积分商城商品列表，使用原来的专区产品接口 Shop/Json/ProductVip获取，增加参数sortCol用于排序（排序方式(time,a加入时间升序,price,d价格除序，sale销售数量默认降序)，选填，）
+3、柒宝币使用原会员账户中的 InternalBalance(原来表示可消费返现)记录
+4、柒宝币明细使用原来的可消费返现明细接口获取 user/json/InternalDetail
+5、增加接口 user/json/QbbPrice 取柒宝币当前价格
+6、增加接口 user/json/QbbBuy 使用余额购买柒宝币
+7、增加接口 user/json/QbbSale 售卖柒宝币，得到余额
+8、增加接口 user/json/QbbGive  柒宝币转赠
+
+
+测试账号： 138000-138099  密码：668866
+
+积分专区页面代码：ConsumeArea

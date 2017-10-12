@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/white"
+    >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp">
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:maxLines="2"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+            android:id="@+id/tv_mobile"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:maxLines="2"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+            android:id="@+id/tv_realname"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:maxLines="2"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_normal_size" />
+    </LinearLayout>
+
+    <ImageView
+        android:src="@drawable/friend_circle_ico01"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:id="@+id/iv_rank"
+        />
+
+
+</LinearLayout>

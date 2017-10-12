@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/head_operation" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/gray_bg"
+            android:orientation="vertical">
+
+            <cn.net.chenbao.qbypseller.view.RegisterTimeLine
+                android:id="@+id/rt"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tv_base_info"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/base_info"
+                    android:textColor="@color/text_gray_m"
+                    android:textSize="@dimen/text_large_size" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/commit_info"
+                    android:textColor="@color/text_gray_m"
+                    android:textSize="@dimen/text_large_size" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/server_money"
+                    android:textColor="@color/text_gray_m"
+                    android:textSize="@dimen/text_large_size" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/check"
+                    android:textColor="@color/text_gray_m"
+                    android:textSize="@dimen/text_large_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:layout_weight="1"
+                    android:text="@string/header"
+                    android:textColor="@color/text_f7"
+                    android:textSize="@dimen/text_large_size" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/iv_shop_head"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_gravity="center_horizontal"
+                        android:background="@color/white"
+                        android:src="@drawable/default_photo" />
+
+                    <TextView
+                        android:id="@+id/tv_updata_pic"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:text="@string/click_updata_photo"
+                        android:textSize="@dimen/text_normal_size" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/white"
+                android:orientation="vertical">
+
+                <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="40dp"-->
+                    <!--android:gravity="center_vertical"-->
+                    <!--android:orientation="horizontal"-->
+                    <!--android:paddingLeft="10dp"-->
+                    <!--android:paddingRight="10dp">-->
+
+
+                    <!--<EditText-->
+                        <!--android:id="@+id/ed_agency_phone"-->
+                        <!--android:layout_width="0dp"-->
+                        <!--android:layout_height="match_parent"-->
+                        <!--android:layout_weight="1"-->
+                        <!--android:background="@null"-->
+                        <!--android:hint="@string/agency_phone_hint"-->
+                        <!--android:inputType="phone"-->
+                        <!--android:paddingLeft="10dp"-->
+                        <!--android:maxLength="11"-->
+                        <!--android:textSize="@dimen/text_normal_size" />-->
+                <!--</LinearLayout>-->
+
+                <!--<View style="@style/cutline_fine" />-->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp">
+
+
+                    <EditText
+                        android:id="@+id/ed_shop_name"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:hint="@string/shop_name_hint"
+                        android:maxLength="25"
+                        android:ellipsize="end"
+                        android:paddingLeft="10dp"
+                        android:textSize="@dimen/text_normal_size" />
+                </LinearLayout>
+
+                <View style="@style/cutline_fine" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="10dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/select_trade"
+                        android:textColor="@color/text_f7"
+                        android:textSize="@dimen/text_normal_size" />
+
+                    <LinearLayout
+                        android:id="@+id/ll_trades_select"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/tv_trade"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@null"
+                            android:gravity="center"
+                            android:paddingLeft="10dp"
+                            android:singleLine="true"
+                            android:textColor="@color/text_f7"
+                            android:textSize="@dimen/text_normal_size" />
+
+                        <ImageView
+                            android:layout_width="12dp"
+                            android:layout_height="12dp"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/arrow_down" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <View style="@style/cutline_fine" />
+
+                <LinearLayout
+                    android:id="@+id/ll_trades_select_sub"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp">
+
+                    <TextView
+                        android:id="@+id/tv_trade_sub"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:gravity="center_vertical"
+                        android:hint="@string/shop_trade_hint"
+                        android:paddingLeft="10dp"
+                        android:singleLine="true"
+                        android:textColor="@color/text_f7"
+                        android:textSize="@dimen/text_normal_size" />
+
+                    <ImageView
+                        android:layout_width="12dp"
+                        android:layout_height="12dp"
+                        android:layout_marginLeft="10dp"
+                        android:background="@drawable/arrow_down" />
+                </LinearLayout>
+
+                <View style="@style/cutline_fine" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp">
+
+                    <EditText
+                        android:id="@+id/ed_shop_phone"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:hint="@string/shop_phone_input"
+                        android:paddingLeft="10dp"
+                        android:maxLength="12"
+                        android:textSize="@dimen/text_normal_size" />
+                </LinearLayout>
+
+                <View style="@style/cutline_fine" />
+
+                <LinearLayout
+                    android:id="@+id/ll_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="10dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/shop_address_with_colon"
+                        android:textColor="@color/text_f7"
+                        android:textSize="@dimen/text_normal_size" />
+
+                    <TextView
+                        android:id="@+id/tv_address"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:ellipsize="end"
+                        android:gravity="center_vertical"
+                        android:hint="@string/click_location"
+                        android:singleLine="true"
+                        android:paddingLeft="10dp"
+                        android:textColor="@color/text_f7"
+                        android:textSize="@dimen/text_normal_size" />
+
+                    <ImageView
+                        android:layout_width="11dp"
+                        android:layout_height="11dp"
+                        android:layout_marginLeft="10dp"
+
+                        android:src="@drawable/location" />
+
+                    <ImageView
+                        android:layout_width="9dp"
+                        android:layout_height="9dp"
+
+                        android:src="@drawable/arrows_right" />
+                </LinearLayout>
+
+                <View style="@style/cutline_fine" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingBottom="13dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="13dp">
+
+
+                    <EditText
+                        android:id="@+id/ed_men_pai"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:hint="@string/please_input_detail_address"
+                        android:maxLength="50"
+                        android:paddingLeft="10dp"
+                        android:textSize="@dimen/text_normal_size" />
+                </LinearLayout>
+
+                <View style="@style/cutline_fine" />
+
+                <LinearLayout
+                    android:id="@+id/ll_agency"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="10dp">
+
+
+                    <TextView
+                        android:id="@+id/tv_agency"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:ellipsize="end"
+                        android:gravity="center_vertical"
+                        android:hint="@string/please_choice_area"
+                        android:singleLine="true"
+                        android:textColor="@color/text_f7"
+                        android:textSize="@dimen/text_normal_size" />
+
+                    <ImageView
+                        android:layout_width="9dp"
+                        android:layout_height="9dp"
+                        android:layout_marginLeft="10dp"
+
+                        android:src="@drawable/arrows_right" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_next"
+                style="@style/common_bottom_operation_btn"
+                android:layout_marginBottom="60dp"
+                android:layout_marginTop="40dp"
+                android:text="@string/next" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <cn.net.chenbao.qbyp.view.NoScrollGridView
+        android:id="@+id/gv_select_images"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/refund_images_margin2"
+        android:layout_marginRight="@dimen/refund_images_margin2"
+        android:horizontalSpacing="@dimen/refund_images_space_size2"
+        android:listSelector="@color/transparent"
+        android:numColumns="3"
+        android:verticalSpacing="@dimen/refund_images_space_size2" >
+    </cn.net.chenbao.qbyp.view.NoScrollGridView>
+
+</LinearLayout>

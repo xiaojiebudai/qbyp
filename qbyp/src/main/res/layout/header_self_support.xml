@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:daemon="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/ll_banner_container"
+        android:layout_width="match_parent"
+        android:layout_height="192dp"
+        android:orientation="vertical">
+
+        <cn.net.chenbao.qbyp.view.HorizontalInnerViewPager
+            android:id="@+id/vp_imgs"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></cn.net.chenbao.qbyp.view.HorizontalInnerViewPager>
+
+        <cn.net.chenbao.qbyp.view.CirclePageIndicator
+            android:id="@+id/indicator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center"
+            android:padding="5dp" />
+    </RelativeLayout>
+
+    <cn.net.chenbao.qbyp.view.NoScrollGridView
+        android:id="@+id/gv_categray"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:horizontalSpacing="10dp"
+        android:numColumns="5"
+        android:verticalSpacing="10dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_select_bar_height"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/mall_index_sale_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="@string/recommended"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_large_size" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/ll_recommend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" />
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:id="@+id/ll_container_imgad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:divider="@drawable/divider_10"
+        android:orientation="vertical"
+        android:showDividers="middle"></LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_container_floor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:divider="@drawable/divider_10"
+        android:orientation="vertical"
+        android:showDividers="middle"></LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_select_bar_height"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/mall_index_hot_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="@string/sale_hot"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_large_size" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="search_result_tab">
+        <item>全部</item>
+        <item>支持配送</item>
+    </string-array>
+    <string-array name="store_tab">
+        <item>商品</item>
+        <item>评价</item>
+        <item>商家</item>
+    </string-array>
+    <string-array name="fenrun_tab">
+        <item>粉丝分润</item>
+        <item>推荐分润</item>
+    </string-array>
+    <string-array name="agency_tab_name">
+        <item>区域信息</item>
+        <item>代理人信息</item>
+    </string-array>
+    <string-array name="collect_tab_name">
+        <item>店铺收藏</item>
+        <item>商品收藏</item>
+    </string-array>
+    <string-array name="self_order_name">
+        <item>全部</item>
+        <item>待处理</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="distribution_order_state">
+        <item>全部</item>
+        <item>处理中</item>
+        <item>已结束</item>
+    </string-array>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:hedgehog="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="5dp"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:paddingBottom="10dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="5dp"
+       >
+        <ImageView
+            android:id="@+id/iv_img"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+          />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginLeft="5dp"
+            android:gravity="center_vertical"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_f7"
+                android:singleLine="true"
+                android:ellipsize="end"
+                android:textSize="@dimen/text_normal_size" />
+            <TextView
+                android:id="@+id/tv_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_f7"
+                android:textSize="@dimen/text_sample_size" />
+
+        </LinearLayout>
+
+
+        <cn.net.chenbao.qbyp.view.RatingBar
+            android:id="@+id/rb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            hedgehog:clickable="false"
+            hedgehog:starCount="5"
+            hedgehog:starEmpty="@drawable/star_nor"
+            hedgehog:starFill="@drawable/star_pre"
+            hedgehog:starHalf="@drawable/start_half"
+            hedgehog:starImageHeight="16dp"
+            hedgehog:starImagePadding="2dp"
+            android:layout_marginLeft="10dp"
+            hedgehog:starImageWidth="16dp" />
+
+
+    </LinearLayout>
+
+     <TextView
+        android:id="@+id/tv_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+         android:layout_marginBottom="5dp"
+
+        android:textColor="@color/text_f7"
+        android:textSize="@dimen/text_normal_size" />
+
+    <LinearLayout
+        android:id="@+id/ll_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"/>
+</LinearLayout>

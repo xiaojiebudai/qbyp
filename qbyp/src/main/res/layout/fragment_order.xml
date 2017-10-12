@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_bg"
+    android:orientation="vertical">
+    <View
+        android:id="@+id/fake_status_bar"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:visibility="gone"
+        android:background="@color/yellow_ww"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/head_operation_height"
+        android:background="@color/yellow_ww"
+        android:clipToPadding="true"
+
+        android:orientation="horizontal">
+
+        <RadioGroup
+            android:id="@+id/rb"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_margin="5dp"
+            android:background="@drawable/bg_white_shape"
+            android:checkedButton="@+id/rbtn_left"
+            android:orientation="horizontal"
+            android:padding="1dp">
+
+            <RadioButton
+                android:id="@+id/rbtn_left"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/bg_radiobutton_order_l"
+                android:button="@null"
+                android:checked="true"
+                android:gravity="center"
+                android:text="@string/local_life"
+                android:textColor="@color/text_checked_yellow_white" />
+
+            <RadioButton
+                android:id="@+id/rbtn_right"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/bg_radiobutton_order_r"
+                android:button="@null"
+                android:gravity="center"
+                android:text="@string/self_surport"
+                android:textColor="@color/text_checked_yellow_white" />
+        </RadioGroup>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"></RelativeLayout>
+</LinearLayout>

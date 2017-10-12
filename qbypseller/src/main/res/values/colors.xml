@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 黄 #e6a22b-->
+    <color name="yellow_ww">#ff8c1b</color>
+
+    <!-- 白 -->
+    <color name="white">#FFFFFFFF</color>
+    <!-- 背景 -->
+    <color name="gray_bg">#F7F7F7</color>
+    <color name="black">#000000</color>
+    <!-- 透明 -->
+    <color name="transparent">#0000</color>
+    <color name="black_transparent_CC">#CC000000</color>
+    <color name="black_transparent_88">#88000000</color>
+
+    <!-- 輸入框字體色 -->
+    <color name="text_f7">#3D3D3D</color>
+    <!-- 全局TextView默认字体颜色 -->
+    <color name="default_text_color">@color/text_f7</color>
+    <!-- 灰色分隔线 -->
+    <color name="gray_line">#EDEDED</color>
+
+    <!-- 灰色 -->
+    <color name="text_c1">#C1C1C1</color>
+    <!-- 深灰 -->
+    <color name="text_b3">#B3B3B3</color>
+
+    <!-- 黄字体 #fc4243-->
+    <color name="text_yellow">#e6a22b</color>
+    <color name="yellow_s">#FFC000</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <color name="yellow">#FFF9DE46</color>
+    <color name="bg_yellow_s">#FFF5DC</color>
+    <!-- 点 #fc4243-->
+    <color name="red_point">#e6a22b</color>
+    <!-- 淡灰色 -->
+    <color name="text_gray_s">#AEAEAE</color>
+    <color name="text_gray_m">#B7B7B7</color>
+    <!-- 大红色 -->
+    <color name="red_b">#F1C1C1</color>
+
+    <color name="real_red_point">#fc4243</color>
+    <!-- 字体绿色 -->
+    <color name="green">#6eb01f</color>
+    <!-- 扫码 -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+
+    <color name="result_view">#b0000000</color>
+    <color name="yellow_list_selector">#22FEF2D7</color>
+    <color name="gray_text_c4">#FFC4C4C4</color>
+    <color name="gray_text_b5">#FFB5B5B5</color>
+    <color name="text_d8">#D8D8D8</color>
+    <color name="halftransparent">#aa000000</color>
+    <color name="blue">#309afc</color>
+    <color name="colorPrimary">#146e6e</color>
+    <color name="colorPrimaryDark">#083939</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+</resources>

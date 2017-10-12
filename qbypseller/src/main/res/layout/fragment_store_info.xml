@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ww="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_bg"
+    android:orientation="vertical">
+
+    <LinearLayout style="@style/select_bar_ll">
+
+        <TextView
+            android:id="@+id/shop_end_time"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical" />
+
+        <TextView
+            android:id="@+id/tv_renew"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/bg_yellow_shape_circle"
+            android:paddingBottom="3dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="3dp"
+            android:text="@string/renew"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout
+        android:id="@+id/ll_storeevaluate"
+        style="@style/select_bar_ll">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/store_rank_with_colon" />
+
+        <cn.net.chenbao.qbypseller.view.RatingBar
+            android:id="@+id/ratingbar"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            ww:clickable="false"
+            ww:starCount="5"
+            ww:starEmpty="@drawable/star_nor"
+            ww:starFill="@drawable/star_pre"
+            ww:starHalf="@drawable/star_half"
+            ww:starImageHeight="20dp"
+            ww:starImagePadding="5dp"
+            ww:starImageWidth="20dp" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:layout_width="14dp"
+
+            android:layout_height="14dp"
+            android:background="@drawable/arrows_right" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout style="@style/select_bar_ll">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/shop_name_with_colon" />
+
+        <TextView
+            android:id="@+id/tv_shop_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_vertical" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout
+        android:id="@+id/ll_shop_phone"
+        style="@style/select_bar_ll">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/shop_phone_with_colon" />
+
+        <TextView
+            android:id="@+id/tv_shop_phone"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical" />
+
+        <ImageView
+            android:layout_width="14dp"
+
+            android:layout_height="14dp"
+            android:background="@drawable/arrows_right" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout style="@style/select_bar_ll"
+        android:id="@+id/ll_select_address">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/shop_address_with_colon" />
+
+        <TextView
+            android:id="@+id/tv_address"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical" />
+
+        <ImageView
+            android:layout_width="14dp"
+
+            android:layout_height="14dp"
+            android:background="@drawable/arrows_right" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout style="@style/select_bar_ll">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/men_pai_hao_with_colon" />
+
+        <EditText
+            android:id="@+id/ed_menpai"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="22dp"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:maxLength="50" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingRight="5dp"
+            android:id="@+id/tv_save_menpaihao"
+            android:paddingLeft="5dp"
+            android:gravity="center_vertical"
+            android:textColor="@color/yellow_ww"
+            android:text="@string/save" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/select_bar_ll"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="@dimen/store_info_hint_width"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/skill_point_with_colon" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/bg_gray_frame"
+            android:gravity="center_vertical"
+            android:inputType="number"
+            android:maxLength="3"
+            android:minWidth="80dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp" />
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:gravity="center"
+            android:text="%"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:paddingBottom="20dp"
+        android:paddingLeft="@dimen/common_select_bar_padding"
+        android:paddingTop="10dp"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="@dimen/store_info_hint_width"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:text="@string/shop_declare_with_colon" />
+
+        <EditText
+            android:id="@+id/edt_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/bg_gray_frame"
+            android:gravity="left"
+            android:maxLength="48"
+            android:minHeight="50dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout style="@style/select_bar_ll">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/business_time_with_colon" />
+
+        <LinearLayout
+            android:id="@+id/ll_time_choose"
+            android:layout_width="138dp"
+            android:layout_height="24dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/bg_gray_shape"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_time"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:gravity="center"
+                android:textSize="@dimen/text_normal_size" />
+
+
+            <ImageView
+                android:layout_width="12dp"
+                android:layout_height="12dp"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:src="@drawable/shoptimeico" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- 补白,避免套层容器或者改变 style/select_bar_ll -->
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:divider="@drawable/divider_v_20"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:showDividers="middle">
+
+        <TextView
+            android:id="@+id/tv_do_business"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/common_confirm_btn_height"
+            android:background="@drawable/bg_red_circle"
+            android:gravity="center"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            android:text="@string/stop_do_business"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/tv_save_info"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/common_confirm_btn_height"
+            android:background="@drawable/bg_red_white_circle"
+            android:gravity="center"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            android:text="@string/save_info"
+            android:textColor="@color/text_yellow"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/head_operation" />
+
+    <LinearLayout
+        android:id="@+id/ll_at_store_select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="15dp"
+        android:paddingLeft="60dp"
+        android:paddingTop="15dp" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:duplicateParentState="true"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:background="@drawable/bg_select_box"
+                android:duplicateParentState="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="@string/at_store" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="28dp"
+            android:hint="@string/hint_at_store"
+            android:textSize="@dimen/text_normal_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_delivery_select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="15dp"
+        android:paddingLeft="60dp"
+        android:paddingTop="15dp" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:duplicateParentState="true"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:background="@drawable/bg_select_box"
+                android:duplicateParentState="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="@string/delivery" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="28dp"
+            android:hint="@string/hint_delivery"
+            android:textSize="@dimen/text_normal_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/common_select_bar_height"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/common_select_bar_padding"
+            android:text="@string/delivery_setting" />
+
+        <LinearLayout style="@style/select_bar_ll" >
+
+            <TextView
+                android:layout_width="@dimen/delivery_setting_hint_width"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|right"
+                android:text="@string/delivery_fee_with_colon" />
+
+            <EditText
+                android:id="@+id/edt_ship_fee"
+                android:layout_width="@dimen/delivery_setting_edittext_width"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/bg_gray_frame"
+                android:hint="@string/input_fee_amount"
+                android:inputType="numberDecimal"
+                android:paddingLeft="5dp"
+                android:maxLength="6"
+                android:singleLine="true"
+                android:textSize="@dimen/text_large_size" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/yuan" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/select_bar_ll" >
+
+            <TextView
+                android:layout_width="@dimen/delivery_setting_hint_width"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|right"
+                android:text="@string/free_delivery_fee_with_colon" />
+
+            <EditText
+                android:id="@+id/edt_ship_free"
+                android:layout_width="@dimen/delivery_setting_edittext_width"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/bg_gray_frame"
+                android:inputType="numberDecimal"
+                android:hint="@string/input_need_over_amount"
+                android:paddingLeft="5dp"
+                android:maxLength="6"
+                android:singleLine="true"
+                android:textSize="@dimen/text_large_size" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/yuan" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/select_bar_ll" >
+
+            <TextView
+                android:layout_width="@dimen/delivery_setting_hint_width"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|right"
+                android:text="@string/packaging_fee_with_colon" />
+
+            <EditText
+                android:id="@+id/edt_packaging_fee"
+                android:layout_width="@dimen/delivery_setting_edittext_width"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:maxLength="6"
+                android:background="@drawable/bg_gray_frame"
+                android:inputType="numberDecimal"
+                android:hint="@string/input_packaging_fee_amount"
+                android:paddingLeft="5dp"
+                android:singleLine="true"
+                android:textSize="@dimen/text_large_size" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/yuan" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/select_bar_ll" >
+
+            <TextView
+                android:layout_width="@dimen/delivery_setting_hint_width"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|right"
+                android:text="@string/free_packaging_fee_with_colon" />
+
+            <EditText
+                android:id="@+id/edt_packaging_free"
+                android:layout_width="@dimen/delivery_setting_edittext_width"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/bg_gray_frame"
+                android:inputType="numberDecimal"
+                android:hint="@string/input_need_over_amount"
+                android:paddingLeft="5dp"
+                android:maxLength="6"
+                android:singleLine="true"
+                android:textSize="@dimen/text_large_size" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/yuan" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_save"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_margin="40dp"
+        android:background="@color/yellow_ww"
+        android:gravity="center"
+        android:text="@string/save"
+        android:textColor="@color/white"
+        android:textSize="16dp" />
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/head_operation_height"
+    android:background="@color/yellow_ww" >
+
+    <LinearLayout
+        android:id="@+id/btn_back"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="@dimen/head_image_size"
+            android:layout_height="@dimen/head_image_size"
+            android:background="@drawable/arrow_back" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/btn_back"
+        android:text="@string/images"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_xlarge_size" />
+
+    <Button
+        android:id="@+id/commit"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="16dp"
+        android:background="@null"
+        android:minHeight="1dp"
+        android:minWidth="1dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp"
+        android:text="@string/finish"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_large_size" />
+
+</RelativeLayout>

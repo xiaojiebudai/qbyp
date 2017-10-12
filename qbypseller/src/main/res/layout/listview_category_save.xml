@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/common_padding" >
+
+    <EditText
+        android:id="@+id/edt_category"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:background="@color/transparent"
+        android:gravity="center_vertical"
+        android:maxLength="10"
+        android:hint="@string/please_add_edit_category_name"
+        android:textSize="@dimen/text_large_size" />
+
+    
+
+    <TextView
+        android:id="@+id/tv_save"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="@string/save" />
+
+</LinearLayout>

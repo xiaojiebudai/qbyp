@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/head_operation" />
+
+    <LinearLayout
+        android:id="@+id/ll_success"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/pay_success" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="@string/pay_success_become_service_shop"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_xlarge_size" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="30dp"
+                android:text="3"
+                android:textColor="@color/yellow_ww"
+                android:textSize="@dimen/text_large_size" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="30dp"
+                android:text="@string/auto_go_center"
+                android:textColor="@color/text_f7"
+                android:textSize="@dimen/text_large_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_fail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/pay_fail" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="@string/fail_pay_again"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_xlarge_size" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_pay_again"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@color/yellow_ww"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="@string/pay_again"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_large_size" />
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_check_order_list_fail"-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="10dp"-->
+                <!--android:background="@drawable/bg_edit_white"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingBottom="5dp"-->
+                <!--android:paddingTop="5dp"-->
+                <!--android:text="@string/check_order_detail"-->
+                <!--android:textColor="@color/text_f7"-->
+                <!--android:textSize="@dimen/text_large_size" />-->
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

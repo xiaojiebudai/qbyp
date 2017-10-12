@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/head_operation_height"
+        android:background="@color/yellow_ww"
+        android:clipToPadding="true"
+        android:fitsSystemWindows="true">
+
+        <RelativeLayout
+            android:id="@+id/rl_head_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:minWidth="50dp">
+
+            <TextView
+                android:layout_width="19dp"
+                android:layout_height="19dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/arrow_back" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/tv_head_center_left"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="@string/goods"
+                    android:textColor="@color/text_selected_white_gray"
+                    android:textSize="@dimen/text_xlarge_size" />
+
+                <View
+                    android:id="@+id/view_shop_tab"
+                    android:layout_width="50dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/white"
+                    android:visibility="invisible"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/tv_head_center_right"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="@string/des"
+                    android:textColor="@color/text_selected_white_gray"
+                    android:textSize="@dimen/text_xlarge_size" />
+
+                <View
+                    android:id="@+id/view_detail_tab"
+                    android:layout_width="50dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/white"
+                    android:visibility="invisible"/>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"></RelativeLayout>
+
+</LinearLayout>

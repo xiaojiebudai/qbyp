@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <TextView
+            android:id="@+id/tv_orderid"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+            android:id="@+id/state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/yellow_ww"
+            android:textSize="@dimen/text_normal_size" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout
+        android:id="@+id/ll_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <!--商品条目动态添加-->
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/text_gray_s"
+            android:textSize="@dimen/text_sample_size" />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sum_with_colon"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+            android:id="@+id/tv_allprice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+
+            android:gravity="right"
+            android:textColor="@color/yellow_ww"
+            android:textSize="@dimen/text_normal_size" />
+
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout
+        android:id="@+id/ll_operate"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical|right"
+        android:orientation="horizontal"
+        android:paddingRight="10dp"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tv_order_operation_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/grayline_whitebg_rectangle_shape"
+            android:gravity="center"
+            android:minWidth="70dp"
+            android:padding="5dp"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_normal_size"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tv_order_operation_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/bg_yellow_shape"
+            android:gravity="center"
+            android:minWidth="70dp"
+            android:padding="5dp"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_normal_size"
+            android:visibility="gone" />
+    </LinearLayout>
+</LinearLayout>

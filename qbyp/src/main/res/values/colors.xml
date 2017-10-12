@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 黄 #e6a22b-->
+    <color name="yellow_ww">#ff8c1b</color>
+
+    <!-- 白 -->
+    <color name="white">#FFFFFFFF</color>
+    <!-- 背景 -->
+    <color name="gray_bg">#F7F7F7</color>
+
+    <color name="edit_bg_gray">#ececec</color>
+    <color name="gray_hint">#FFD4D4D4</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="global_bg">#eeeff3</color>
+    <!-- 灰色分隔线 -->
+    <color name="gray_line">#EDEDED</color>
+    <color name="white_73">#73FFFFFF</color>
+    <!-- 淡灰色 -->
+    <color name="text_gray_s">#AEAEAE</color>
+    <!-- 灰色字 -->
+    <color name="text_gray_shen">#4A4A4A</color>
+    <color name="text_gray_s1">#A0A0A0</color>
+    <color name="text_gray">#6e6e6e</color>
+    <color name="black">#000000</color>
+    <!-- 透明 -->
+    <color name="transparent">#0000</color>
+    <color name="black_transparent_CC">#CC000000</color>
+    <color name="black_transparent_66">#66000000</color>
+    <color name="black_transparent_77">#77000000</color>
+    <color name="black_transparent_88">#88000000</color>
+
+    <!-- 全局TextView默认字体颜色 -->
+    <color name="default_text_color">@color/text_f7</color>
+    <!-- 扫码 -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="halftransparent">#aa000000</color>
+    <color name="gray_sub_text">#666666</color>
+    <!-- 灰色分隔线 -->
+    <color name="gray_666">#666666</color>
+
+    <!-- 輸入框字體色 -->
+    <color name="text_f7">#3D3D3D</color>
+    <!-- 灰色 -->
+    <color name="text_c1">#C1C1C1</color>
+    <!-- 深灰 -->
+    <color name="text_b3">#B3B3B3</color>
+
+    <!-- 黄字体 #fc4243-->
+    <color name="bg_yellow_big">#ff9f65</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <color name="text_yellow">#e6a22b</color>
+    <color name="brown">#895e12</color>
+    <color name="text_select_yellow">#ffcc74</color>
+    <color name="text_yellow_s">#edbb64</color>
+    <color name="text_yellow_b">#f4dab8</color>
+    <color name="bg_yellow">#fff6e7</color>
+    <color name="bg_yellow_s">#fffee5</color>
+
+
+
+    <!-- 黑色字 -->
+    <color name="text_black_s">#383838</color>
+    <!-- 大红色 -->
+    <color name="red_b">#FF4F4F</color>
+    <color name="red_s">#FF5A12</color>
+    <color name="red_blod">#fa2827</color>
+    <!-- 支付金钱红字 -->
+    <color name="red_pay">#ff3434</color>
+    <!-- 分销红字 -->
+    <color name="red_fenxiao">#fc5757</color>
+    <!-- 红点 -->
+    <color name="red_point">#FF4F4F</color>
+    <color name="red">#ff0000</color>
+
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <!-- 字体绿色 -->
+    <color name="green">#6eb01f</color>
+    <color name="green_s">#abe56f</color>
+    <color name="green_text">#8DD56A</color>
+
+</resources>

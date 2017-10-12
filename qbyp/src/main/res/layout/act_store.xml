@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ww="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:id="@+id/rl_image_bg"
+        android:layout_width="match_parent"
+        android:layout_height="122dp"
+        android:background="@drawable/store_bg"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/head_operation_height"
+            android:clipToPadding="true">
+
+            <RelativeLayout
+                android:id="@+id/rl_head_left"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:minWidth="50dp">
+
+                <TextView
+                    android:id="@+id/tv_head_left"
+                    android:layout_width="19dp"
+                    android:layout_height="19dp"
+                    android:layout_centerInParent="true" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_head_center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center" />
+        </RelativeLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="78dp"
+            android:layout_marginTop="44dp"
+            android:paddingBottom="14dp"
+            android:paddingTop="14dp">
+
+            <ImageView
+                android:id="@+id/iv_image"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="34dp"
+                android:layout_marginRight="10dp"
+                android:scaleType="centerCrop" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/tv_tips"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/text_normal_size" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:text="@string/can_use_integral"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/text_normal_size"
+                        android:visibility="invisible" />
+
+                    <TextView
+                        android:id="@+id/tv_integral"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/text_normal_size"
+                        android:visibility="invisible" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <cn.net.chenbao.qbyp.view.RatingBar
+                        android:id="@+id/rb"
+                        android:layout_width="wrap_content"
+                        android:layout_height="15dp"
+                        ww:clickable="false"
+                        ww:starCount="5"
+                        ww:starEmpty="@drawable/star_nor"
+                        ww:starFill="@drawable/star_pre"
+                        ww:starHalf="@drawable/start_half"
+                        ww:starImageHeight="15dp"
+                        ww:starImagePadding="3dp"
+                        ww:starImageWidth="15dp" />
+
+                    <TextView
+                        android:id="@+id/tv_point"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/text_sample_size" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="50dp">
+
+            <ImageView
+                android:id="@+id/rl_collect"
+                android:layout_width="@dimen/head_image_size"
+                android:layout_height="@dimen/head_image_size"
+                android:layout_alignParentRight="true"
+                android:minWidth="50dp"
+                android:src="@drawable/bg_collect_selector" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/rl_collect"
+                android:text="@string/collect"
+                android:textColor="@color/white"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+    <cn.net.chenbao.qbyp.view.TabScrollView
+        android:id="@+id/tabscrollview_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v4.view.ViewPager>
+
+</LinearLayout>

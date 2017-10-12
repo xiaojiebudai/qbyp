@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@color/bg_yellow_s"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/finished_money"
+                android:textColor="@color/text_f7"
+                android:textSize="@dimen/text_normal_size" />
+
+            <TextView
+                android:id="@+id/tv_jiesun"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:textColor="@color/red_blod"
+                android:textSize="@dimen/text_normal_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/have_not_finish_money"
+                android:textColor="@color/text_f7"
+                android:textSize="@dimen/text_normal_size" />
+
+            <TextView
+                android:id="@+id/tv_unjiesun"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:textColor="@color/green_s"
+                android:textSize="@dimen/text_normal_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:text="@string/money_sum"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+            android:id="@+id/tv_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:gravity="center"
+            android:text="@string/remark"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:gravity="center"
+            android:text="@string/time"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:text="@string/state"
+            android:textColor="@color/text_f7"
+            android:textSize="@dimen/text_normal_size" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/listview_datas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@color/gray_line"
+        android:dividerHeight="0.6dp"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:listSelector="@color/transparent"
+        android:smoothScrollbar="true" >
+    </com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+</LinearLayout>

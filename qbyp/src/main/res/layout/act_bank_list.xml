@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/head_operation" />
+
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/listview_bank"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:divider="@color/gray_bg"
+        android:dividerHeight="10dp"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:listSelector="@color/transparent"
+        android:smoothScrollbar="true"></com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+    <LinearLayout
+        android:id="@+id/ll_add"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_select_bar_height"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="15dp"
+            android:src="@drawable/add_bank" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_weight="1"
+            android:text="@string/add_bank"
+            android:textColor="@color/default_text_color"
+            android:textSize="@dimen/text_large_size" />
+
+        <ImageView
+            style="@style/arrow_right_gray"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="15dp" />
+    </LinearLayout>
+</LinearLayout>

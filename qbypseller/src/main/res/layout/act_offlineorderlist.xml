@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/head_operation" />
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/listview_data"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="@color/gray_bg"
+        android:dividerHeight="5dp"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:listSelector="@color/transparent"
+        android:smoothScrollbar="true">
+
+    </com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+    <LinearLayout
+        android:id="@+id/ll_buttom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_select_bar_height"
+        android:background="@color/black_transparent_CC"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/total_with_colon"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_large_size" />
+
+        <TextView
+            android:id="@+id/tv_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_large_size" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/money_totalize"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_large_size" />
+
+        <TextView
+            android:id="@+id/tv_money_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="20dp"
+            android:textColor="@color/yellow_ww"
+            android:textSize="@dimen/text_large_size" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_bg"
+    android:orientation="vertical">
+
+    <include layout="@layout/head_operation" />
+
+    <LinearLayout
+        android:id="@+id/ll_select"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_industry"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/all"
+            android:textColor="@color/text_f7" />
+
+        <ImageView
+            android:id="@+id/iv_industry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/fuwus_downarrow_icon" />
+
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/listview_datas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@null"
+        android:dividerHeight="0.6dp"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:listSelector="@color/transparent"
+        android:smoothScrollbar="true"></com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+</LinearLayout>

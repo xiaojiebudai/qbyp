@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/head_operation" />
+
+    <LinearLayout
+        android:id="@+id/ll_edit_psw"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:visibility="gone"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_weight="1"
+            android:text="@string/edit_login_psw"
+            android:textColor="@color/default_text_color"
+            android:textSize="@dimen/text_large_size" />
+
+        <ImageView
+            style="@style/arrow_right_gray"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="15dp" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine"  android:visibility="gone"/>
+
+    <LinearLayout
+        android:id="@+id/ll_app_versions_des"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_select_bar_height"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_weight="1"
+            android:text="@string/app_versions_des"
+            android:textColor="@color/default_text_color"
+            android:textSize="@dimen/text_large_size" />
+
+        <ImageView
+            style="@style/arrow_right_gray"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="15dp" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout
+        android:id="@+id/ll_about_us"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_select_bar_height"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_weight="1"
+            android:text="@string/about_us"
+            android:textColor="@color/default_text_color"
+            android:textSize="@dimen/text_large_size" />
+
+        <ImageView
+            style="@style/arrow_right_gray"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="15dp" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout
+        android:id="@+id/ll_contact_us"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_select_bar_height"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_weight="1"
+            android:text="@string/contact_us"
+            android:textColor="@color/default_text_color"
+            android:textSize="@dimen/text_large_size" />
+
+        <ImageView
+            style="@style/arrow_right_gray"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="15dp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_exit"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_select_bar_height"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/textview_btn_comm_bg"
+        android:gravity="center"
+        android:text="@string/exit_login"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_xlarge_size" />
+
+</LinearLayout>

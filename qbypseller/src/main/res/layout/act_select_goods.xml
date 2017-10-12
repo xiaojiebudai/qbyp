@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/head_operation" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_toRightOf="@id/ll_add_category"
+        android:background="@color/white"
+        android:orientation="vertical"
+         >
+
+        <TextView
+            android:id="@+id/tv_upload_goods"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/bg_yellow_shape_circle"
+            android:gravity="center"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:layout_marginTop="10dp"
+            android:visibility="gone"
+            android:text="@string/add_upload_goods"
+            android:textColor="@color/white" />
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/listview_goods"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:cacheColorHint="@color/transparent"
+            android:divider="@color/gray_line"
+            android:dividerHeight="@dimen/cutline_size"
+            android:fadingEdge="none"
+            android:fastScrollEnabled="false"
+            android:scrollbars="none"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false"
+            android:listSelector="@color/transparent"
+            android:smoothScrollbar="true" >
+        </com.handmark.pulltorefresh.library.PullToRefreshListView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_buttom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_select_bar_height"
+        android:background="@color/black_transparent_CC"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="@string/num_with_colon"
+
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+            android:id="@+id/tv_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="0"
+            android:textColor="@color/yellow_ww"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="@string/jian"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_normal_size" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/money_totalize"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+            android:id="@+id/tv_money_total"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:textColor="@color/yellow_ww"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+            android:id="@+id/tv_commit"
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@color/yellow_ww"
+            android:gravity="center"
+            android:text="@string/ok"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_xlarge_size" />
+    </LinearLayout>
+</LinearLayout>

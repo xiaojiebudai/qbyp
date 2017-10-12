@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="order_acount_tabs">
+        <item>待接单</item>
+        <item>待付款</item>
+        <item>待收货</item>
+        <item>退款中</item>
+        <item>取消</item>
+        <item>完成</item>
+    </string-array>
+
+</resources>
