@@ -83,11 +83,11 @@ public class WithdrawActivity extends FatherActivity implements OnClickListener 
                     WWToast.showShort(this, R.string.please_input_withdraw_money);
                     return;
                 }
-                double edu = Double.parseDouble(tvWithdrawYue.getText().toString().trim());
-                if (edu < Double.parseDouble(money)) {
-                    WWToast.showShort(this, R.string.rather_than_withdraw_edu);
-                    return;
-                }
+//                double edu = Double.parseDouble(tvWithdrawYue.getText().toString().trim());
+//                if (edu < Double.parseDouble(money)) {
+//                    WWToast.showShort(this, R.string.rather_than_withdraw_edu);
+//                    return;
+//                }
                 if (havePayPsw) {
                     commit();
                 } else {
@@ -223,7 +223,7 @@ public class WithdrawActivity extends FatherActivity implements OnClickListener 
             }
         });
         WWViewUtil.inputLimit(et_num, 999999999.99, 2);
-        tvWithdrawYue.setText(WWViewUtil.numberFormatWithTwo(withdraw_limit));
+//        tvWithdrawYue.setText(WWViewUtil.numberFormatWithTwo(withdraw_limit));
         tv_yue_title.setText(model == PERSON_WITHDRAW ? R.string.agency_yue_money : R.string.goods_money_colon);
         tv_shouxufei.setHint(model == PERSON_WITHDRAW ? R.string.service_fee_10 : R.string.service_fee_1);
     }

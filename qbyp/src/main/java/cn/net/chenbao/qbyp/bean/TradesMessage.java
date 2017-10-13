@@ -18,7 +18,7 @@ public class TradesMessage {
 	public long DeliverAvgtime;// 属性DeliverAvgtime(deliver_avgtime)
 	public double DeliverFee;// 属性DeliverFee(配送费)
 	public int Distance;// 距离
-	public int ExpireTime;// 属性ExpireTime(认证到期时间)
+	public long ExpireTime;// 属性ExpireTime(认证到期时间)
 	public String Explain;// 属性Explain(说明)
 	public double FullDelivery;// 属性FullDelivery(满多少免配送费)
 	public double FullPackage;// 属性FullPackage(满多少免包装费)
@@ -28,7 +28,7 @@ public class TradesMessage {
 	public double PackageFee;// 属性PackageFee(包装费)
 
 	public int Province;// 属性Province(省)
-	public int TradeType;// 属性TradeType(所属行业)
+	public String TradeType;// 属性TradeType(所属行业)
 	public long SellerId;// 属性SellerId(商家ID)
 	public String SellerName;// 属性SellerName(商家名称)
 	public String SellerTel;// 属性SellerTel(店铺电话)

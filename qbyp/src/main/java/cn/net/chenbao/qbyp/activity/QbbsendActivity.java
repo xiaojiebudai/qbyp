@@ -60,7 +60,7 @@ public class QbbsendActivity extends FatherActivity {
 
     @Override
     protected void initView() {
-
+        tvQibaobinum.setText(InternalBalance);
     }
 
     @Override

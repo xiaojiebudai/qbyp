@@ -12,9 +12,9 @@ public class Constants {
 	
 
 	/** qq AppId */
-	public static final String QQ_APP_ID = "1106021410";
+	public static final String QQ_APP_ID = "1106257921";
 	/** qq app key */
-	public static final String QQ_APP_KEY = "hPYdEv52PWt7ZpOg";
+	public static final String QQ_APP_KEY = "sz6h2wI9XWVW5fEd";
 	/** 微信id */
 	public static final String WX_APP_ID = "wx4c222a346a33ee5b";
 	/** 微信key */

@@ -20,6 +20,7 @@ import com.handmark.pulltorefresh.library.PullToRefreshBase;
 import com.handmark.pulltorefresh.library.PullToRefreshListView;
 
 import cn.net.chenbao.qbyp.WWApplication;
+import cn.net.chenbao.qbyp.activity.JiFenShopActivity;
 import cn.net.chenbao.qbyp.activity.LoginActivity;
 import cn.net.chenbao.qbyp.activity.SearchActiivty;
 import cn.net.chenbao.qbyp.activity.SelfSupportActivity;
@@ -369,6 +370,8 @@ public class SelfSupportFragment extends FatherFragment {
                                                         //原生界面
                                                         if (banner.OperValue.equals(Banner.PAGECODE_SELF)) {
                                                             startActivity(new Intent(getActivity(), SelfSupportActivity.class));
+                                                        }else if(banner.OperValue.equals(Banner.CONSUME_AREA)){
+                                                            startActivity(new Intent(getActivity(), JiFenShopActivity.class));
                                                         }
                                                         break;
                                                     case 3:

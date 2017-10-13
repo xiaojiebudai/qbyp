@@ -222,7 +222,7 @@
                             android:layout_weight="1"
                             android:background="#FFC11b"
                             android:gravity="center"
-                            android:text="转增"
+                            android:text="转赠"
                             android:textColor="@color/white"
                             android:textSize="16sp" />
 

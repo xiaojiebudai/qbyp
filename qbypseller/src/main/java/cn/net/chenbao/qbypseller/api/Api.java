@@ -2,7 +2,7 @@ package cn.net.chenbao.qbypseller.api;
 
 public class Api {
 
-	private static final boolean isDebug = true;
+	private static final boolean isDebug = false;
 
 	public static final String WW_ONLINE_API = isDebug ? "http://api.51wanj.com"
 			: "http://api.qbypsc.com";
