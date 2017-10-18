@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qbyp.iml" filepath="$PROJECT_DIR$/qbyp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qbyp/qbyp.iml" filepath="$PROJECT_DIR$/qbyp/qbyp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qbyp/qbyp-qbyp.iml" filepath="$PROJECT_DIR$/qbyp/qbyp-qbyp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qbypseller/qbypseller.iml" filepath="$PROJECT_DIR$/qbypseller/qbypseller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucrop/ucrop.iml" filepath="$PROJECT_DIR$/ucrop/ucrop.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:background="@color/white"   android:padding="8dp"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="@dimen/common_image_size"
+        android:layout_height="@dimen/common_image_size"
+        android:id="@+id/iv_goods_img"
+        android:layout_gravity="center_vertical"
+       />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name"
+            android:textSize="@dimen/text_large_size"
+            android:layout_marginTop="6dp"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_price"
+            android:layout_marginTop="4dp"
+            android:textSize="@dimen/text_normal_size"
+            android:textColor="@color/yellow_ww"
+            android:layout_weight="1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_time"
+            android:layout_marginTop="4dp"
+            android:textSize="@dimen/text_normal_size"
+            android:textColor="@color/text_gray_s"
+            android:layout_weight="1" />
+    </LinearLayout>
+    <TextView
+        android:text="@string/addto_shoppingcart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@drawable/grayline_whitebg_rectangle_shape"
+        android:padding="5dp"
+        android:textSize="@dimen/text_normal_size"
+        android:textColor="@color/text_f7"
+        android:id="@+id/bt_add_cart" />
+</LinearLayout>

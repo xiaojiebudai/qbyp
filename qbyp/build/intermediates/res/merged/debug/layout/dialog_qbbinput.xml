@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_marginTop="10dp"
+
+        android:background="@drawable/dialog_bg_share_news"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:text="柒宝币今日价值 ￥80.00枚"
+            android:textColor="#FF8C1B"
+            android:textSize="12sp" />
+
+        <LinearLayout
+            android:id="@+id/ll_input"
+            android:layout_width="wrap_content"
+            android:layout_height="33dp"
+            android:layout_below="@+id/tv_title"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/ed_comment"
+                android:layout_width="192dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_bg_share_news"
+                android:gravity="center_vertical"
+                android:hint="兑换数量"
+                android:inputType="number"
+                android:paddingLeft="5dp"
+                android:textColor="@color/text_f7"
+                android:textSize="16sp">
+
+                <requestFocus />
+            </EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="枚"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/ll_input"
+            android:layout_below="@+id/ll_input"
+            android:layout_marginTop="30dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="可兑换"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:text="￥0.00"
+                android:textColor="#FF8C1B"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_ok"
+            android:layout_width="146dp"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/bg_yellow_shape"
+            android:gravity="center"
+            android:text="确认回购"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_xxlarge_size" />
+
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:id="@+id/iv_close"
+        android:layout_gravity="right"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/close" />
+</FrameLayout>

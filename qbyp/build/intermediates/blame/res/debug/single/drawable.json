@@ -1,0 +1,526 @@
+[
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_check_box_select_integral.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_check_box_select_integral.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_radius.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\gray_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_oval_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_white_oval_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\green_circle_wuliu_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\green_circle_wuliu_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\fenxiao_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\fenxiao_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\8b867a274c58744abfd697c2b68ff85c48ec26af\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\index_self_sorder_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\index_self_sorder_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_checkbox.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\grayline_whitebg_rectangle_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\grayline_whitebg_rectangle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_bg_share_news.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\edit_bg_share_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_btn_comm_bg.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\textview_btn_comm_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\pulltorefresh_anim.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\pulltorefresh_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\index_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\index_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rec_little.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\shape_rec_little.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow_shap_no_r.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_yellow_shap_no_r.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_black_transparent_half_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_black_transparent_half_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_collect_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_collect_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\open_red_animation_drawable.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\open_red_animation_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\industry_category_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\industry_category_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_red_point.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_red_point.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_hot_search_pre.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_hot_search_pre.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\umeng_socialize_sina.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_radiobutton_order_l.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_radiobutton_order_l.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\white_radius.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\white_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_time_select.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_dialog_time_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\check_address_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\check_address_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading.png",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\b869f864c8b29d6653a286b357ace229a0b6d30f\\output\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_menu_default.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_goods_dialog.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_goods_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_shape_bottom_left.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_white_shape_bottom_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow_white_shape2.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_yellow_white_shape2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_ver_bg.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\textview_ver_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\click_bg.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\click_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_trans_check.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_white_trans_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\divider_10.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\divider_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\authed_state_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\authed_state_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\no_auth_state_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\no_auth_state_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow_shape_circle.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_yellow_shape_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow_shape_bottom_right.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_yellow_shape_bottom_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_hot_search_nor.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_hot_search_nor.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\agency_withdraw_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\agency_withdraw_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\8b867a274c58744abfd697c2b68ff85c48ec26af\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\index_self_shopcar_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\index_self_shopcar_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\ucrop_shadow_upside.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\ucrop\\build\\intermediates\\bundles\\default\\res\\drawable\\ucrop_shadow_upside.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_black_oval.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_black_oval.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gray_frame2.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_gray_frame2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_yellow_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_white_yellow_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\8b867a274c58744abfd697c2b68ff85c48ec26af\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\ucrop_vector_logo.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\ucrop\\build\\intermediates\\bundles\\default\\res\\drawable\\ucrop_vector_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_hot_search_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_hot_search_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading_progress.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\b869f864c8b29d6653a286b357ace229a0b6d30f\\output\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\my_ratingbar.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\my_ratingbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\ucrop_vector_loader.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\ucrop\\build\\intermediates\\bundles\\default\\res\\drawable\\ucrop_vector_loader.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\umeng_socialize_qq.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_kitkat.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\12f8d7f6a616db722d7e539a4ff1fc9a8227c30d\\output\\res\\drawable\\selector_button_kitkat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\index_self_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\index_self_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_clear_search.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_clear_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_radiobutton_order_r.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_radiobutton_order_r.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_home_tab_pre.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_home_tab_pre.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\cutline_fine.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\cutline_fine.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_shade_yellow.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_shade_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg_share_news.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\dialog_bg_share_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\ucrop_vector_ic_crop.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\ucrop\\build\\intermediates\\bundles\\default\\res\\drawable\\ucrop_vector_ic_crop.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\ucrop_vector_loader_animated.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\ucrop\\build\\intermediates\\bundles\\default\\res\\drawable\\ucrop_vector_loader_animated.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\agency_shop_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\agency_shop_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\person_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\person_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_yellow_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\cutline_fine_keyboard.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\cutline_fine_keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow_white_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_yellow_white_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobutton_bottom_line.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\radiobutton_bottom_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_goods_category_check.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\selector_goods_category_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\agency_only_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\agency_only_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_oval_translate_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_white_oval_translate_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\black_background.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\black_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_red_white_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\selector_red_white_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_lollipop.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\12f8d7f6a616db722d7e539a4ff1fc9a8227c30d\\output\\res\\drawable\\selector_button_lollipop.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\8b867a274c58744abfd697c2b68ff85c48ec26af\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edit_white.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_edit_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_check_box_register.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_check_box_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_home_tab_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_home_tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\cricle_small_yellow_true_selector.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\cricle_small_yellow_true_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\8b867a274c58744abfd697c2b68ff85c48ec26af\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_circle_wuliu_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\gray_circle_wuliu_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_shape.xml",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable\\bg_white_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_standard.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\12f8d7f6a616db722d7e539a4ff1fc9a8227c30d\\output\\res\\drawable\\selector_button_standard.xml"
+    }
+]

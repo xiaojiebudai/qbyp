@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/head_operation_height"
+        android:background="@color/yellow_ww"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/rl_head_left"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:minWidth="50dp" >
+
+            <TextView
+                android:id="@+id/tv_head_left"
+                android:layout_width="19dp"
+                android:layout_height="19dp"
+                android:layout_centerInParent="true" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_head_center"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_white_oval_shape"
+            android:gravity="center_vertical"
+            android:hint="@string/search_seller_you_want"
+            android:paddingLeft="10dp" />
+
+        <RelativeLayout
+            android:id="@+id/rl_head_right"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:minWidth="50dp" >
+
+            <TextView
+                android:id="@+id/tv_head_right"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="horizontal" >
+
+        <ListView
+            android:id="@+id/listview_categories"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:cacheColorHint="@color/transparent"
+            android:choiceMode="singleChoice"
+            android:divider="@color/gray_line"
+            android:dividerHeight="0.6dp"
+            android:listSelector="@color/gray_bg"
+            android:scrollbars="none" >
+        </ListView>
+
+        <com.handmark.pulltorefresh.library.PullToRefreshGridView
+            android:background="@color/white"
+            android:id="@+id/gridview_datas"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:cacheColorHint="@color/transparent"
+            android:divider="@color/transparent"
+            android:fadingEdge="none"
+            android:scrollbars="none"
+            android:fastScrollEnabled="false"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false"
+            android:horizontalSpacing="10dp"
+            android:listSelector="@drawable/click_bg"
+            android:numColumns="3"
+            android:smoothScrollbar="true"
+            android:verticalSpacing="10dp" >
+        </com.handmark.pulltorefresh.library.PullToRefreshGridView>
+    </LinearLayout>
+
+</LinearLayout>

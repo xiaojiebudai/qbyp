@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_yiji_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_large_size"
+        android:textColor="@color/text_gray_shen"
+        android:paddingLeft="10dp"
+        android:paddingTop="7dp"
+        android:paddingBottom="7dp"/>
+
+    <cn.net.chenbao.qbyp.view.NoScrollGridView
+        android:id="@+id/gv_categray"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:cacheColorHint="@color/black"
+        android:listSelector="@color/black"
+        android:numColumns="4"></cn.net.chenbao.qbyp.view.NoScrollGridView>
+</LinearLayout>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_bg"
+    android:orientation="vertical">
+
+    <include layout="@layout/head_operation" />
+
+    <EditText
+        android:id="@+id/ed_username"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:hint="@string/please_input_username"
+        android:maxLength="15"
+        android:singleLine="true"
+        android:paddingLeft="20dp"
+        android:textColorHint="@color/text_c1"
+        android:textSize="@dimen/text_large_size" />
+
+    <View style="@style/cutline_fine" />
+
+    <EditText
+        android:id="@+id/ed_password"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:hint="@string/please_input_password"
+        android:inputType="textPassword"
+        android:maxLength="20"
+        android:singleLine="true"
+        android:paddingLeft="20dp"
+        android:textColorHint="@color/text_c1"
+        android:textSize="@dimen/text_large_size" />
+
+    <TextView
+        android:id="@+id/tv_login"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/textview_btn_comm_bg"
+        android:gravity="center"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:text="@string/login"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_xlarge_size" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/tv_fatser_register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/faster_register"
+            android:textColor="@color/text_yellow"
+            android:textSize="@dimen/text_normal_size" />
+
+        <TextView
+            android:id="@+id/tv_forget_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:padding="3dp"
+            android:text="@string/forget_password_with_question"
+            android:textSize="@dimen/text_normal_size" />
+    </RelativeLayout>
+
+</LinearLayout>

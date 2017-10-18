@@ -565,7 +565,7 @@ public class HomePageFragment2 extends FatherFragment implements
 
     private void showNoLocaltionPermissionDialog() {
         final CommonDialog commonDialogTwiceConfirm = DialogUtils.getCommonDialogTwiceConfirm(getActivity(), R.string.get_position_fail_open_permission, true);
-        commonDialogTwiceConfirm.setRightButtonText(getString(R.string.go_settle));
+        commonDialogTwiceConfirm.setRightButtonText(getString(R.string.sure));
         commonDialogTwiceConfirm.setRightButtonCilck(new OnClickListener() {
             @Override
             public void onClick(View v) {

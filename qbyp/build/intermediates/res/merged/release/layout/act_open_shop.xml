@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/lodingfail"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/person_download"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="260dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/person_download" />
+
+    <ImageView
+        android:id="@+id/shop_download"
+        android:layout_width="wrap_content"
+         android:layout_marginLeft="30dp"
+         android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/shop_download" />
+
+</LinearLayout>

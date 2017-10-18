@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/head_operation" />
+
+    <LinearLayout
+        android:id="@+id/ll_updata_psw"
+        style="@style/select_bar_ll" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/modify_login_password" />
+
+        <ImageView style="@style/arrow_right_gray" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout
+        android:id="@+id/ll_updata_pay_psw"
+        style="@style/select_bar_ll" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/modify_pay_password" />
+
+        <ImageView style="@style/arrow_right_gray" />
+    </LinearLayout>
+
+    <View style="@style/cutline_fine" />
+
+    <LinearLayout
+        android:id="@+id/ll_forget_pay_psw"
+        style="@style/select_bar_ll" >
+
+        <TextView
+            android:id="@+id/tv_psw"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical" />
+
+        <ImageView style="@style/arrow_right_gray" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/fake_status_bar"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:background="@color/yellow_ww"
+        android:visibility="gone" />
+
+    <!--<include-->
+        <!--android:id="@+id/ll_head"-->
+        <!--layout="@layout/back_centertext_header" />-->
+
+    <include layout="@layout/head_operation" android:id="@+id/ll_head"/>
+
+    <com.handmark.pulltorefresh.library.PullToRefreshExpandableListView
+        android:id="@+id/ev_shopcart"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/ll_head"
+        android:layout_marginBottom="50dp"
+        android:cacheColorHint="@color/black"
+        android:divider="@drawable/cutline_fine"
+        android:groupIndicator="@null"
+        android:listSelector="@color/black"
+        android:scrollbars="none" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/ll_all_select"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <CheckBox
+                    android:id="@+id/cb_all_select"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:button="@drawable/cricle_small_yellow_true_selector"
+                    android:clickable="false" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/all_select"
+                    android:textColor="@color/text_gray_shen"
+                    android:textSize="@dimen/text_normal_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_total_money"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:text="@string/sum_with_colon"
+                    android:textColor="@color/text_gray_shen"
+                    android:textSize="@dimen/text_normal_size" />
+
+                <TextView
+                    android:id="@+id/tv_total_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:textColor="@color/text_gray_shen"
+                    android:textSize="@dimen/text_normal_size" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/btn_go_order_detail"
+                android:layout_width="137dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:background="@color/yellow_ww"
+                android:gravity="center"
+                android:text="@string/go_settle"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_large_size" />
+        </LinearLayout>
+    </FrameLayout>
+
+</RelativeLayout>

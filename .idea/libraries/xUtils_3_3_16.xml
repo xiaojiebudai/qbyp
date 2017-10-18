@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xUtils-3.3.16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/qbyp/libs/xUtils-3.3.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

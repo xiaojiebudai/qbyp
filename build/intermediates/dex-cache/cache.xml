@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_8d490915d2e40ff9742f2ae1716c48e774e05b67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\core-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.0.0_c0b9da50ff753a3ab2f729060c8f85fd1f4d53d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_9b1f7fa67f733b2309312d7f04ebe367053e1366\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\umeng_social_shareboard.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0262aa3e406c32cdab928b23b4c4ff6bbc1c8307">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_shareboard_42491d5a5074f80ea2d32e85a07ac1a028181e62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ea27780e60218dd8275e57cb89da046af9a1bb">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_b814da0fd3c7b0d9ab5b5961d2bb2532d06691e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\SocialSDK_WeiXin_Full.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a2bdd68e2c9a45b1d5b0fa6b90a1e8869ad1e9d">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_Full_2e981a1ad5cd1e3c74cddb7e8e8686aa49208b0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\umeng_social_api.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90929d469d67e9394dcd35e1aabc981df95f27f4">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_api_49aa3aa5ef4dc2709906a8f11d801df075aed650\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\SocialSDK_Sina_Simplify.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15ec754f739c1c353169197e544f6c3172597c6e">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_Sina_Simplify_2cb15b1681c87ebb89eac4ff6950199a8b74eafe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a40280283266d794a01c06f18e4b9f684b4f3fa5">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_78fa96ce05a017bfb73f3831bd212ca1af7013dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\tbs_sdk_thirdapp_v2.2.0.1056_36542_sharewithdownload_withoutGame_obfs_20160816_145431.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c7692cdb144bea56181699a4887207ad8124a1f">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\tbs_sdk_thirdapp_v2.2.0.1056_36542_sharewithdownload_withoutGame_obfs_20160816_145431_52b9e8c82ce1c4ed2bd3c5a8874012bd669afe95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.4.0_15e12b81b85f196054a4bad18e3ec7ffd1b1b22d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\alipaySingle-20160809.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="412df6289eb0477016d426ff30d40566bf977755">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySingle-20160809_3d5e54e3fdaf7d7ab9e999cf0fd877386ce1bf04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\umeng_social_shareview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33e345571d0b93912bc6e2d7fe35d8ac066d4dd9">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_shareview_73d739d7b89dfb66c842e76e7769f3ac8df6c0c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\SocialSDK_QQ_Simplify.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c693cf13ea75beb432b70b1774d864558792331">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQ_Simplify_512a829ad179deba3ba68cdb30d5dbed21f8892e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_dd562bf84980b9f65c1352df0498da83092ad8ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\umeng_social_net.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b5363c8fe2c50d1392a15281ed12ca3e4b4c223">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_net_acf89b557efa81696eb930612db917160d1df1db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\xUtils-3.3.16.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aab6b83295343274d106eb58d9778ea73a1ccee6">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-3.3.16_c5eec101c3a3ae4bc2887a4c7ea8eea5fdb63397\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\javabase64-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d6c41daabd8f7aebf65893dcbbfc18b5b78ea74">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\javabase64-1.3.1_8b3c3c14ff108b9a6b7f2f2bc07649e716f30fdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.1.2\c3b60518ca618748430276191918f78ab36bc4b5\analytics-6.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3b60518ca618748430276191918f78ab36bc4b5">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\10\analytics-6.1.2_fdfb12fa00fde2d3f3953bdc9f6ac002334ee40f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\eventbus-3.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4a559b2dfb3e8a00ed37c440e118584f60db046">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\eventbus-3.0.0-beta1_94db6a4fbc3c362f5a44bef4a2bfc1457f8f6fae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\.android\build-cache\b869f864c8b29d6653a286b357ace229a0b6d30f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f06a1dd61d388f6ccf20277b7f9255bf50b48f3a">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28e2145df8da0632c27eb9fba0e2070433f9e724\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZXJ\Desktop\qbyp\qbyp\libs\jpush-android-2.1.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99c80319fb45b23fbc516787fdd3cf8940fda4b2">
+        <dex dex="C:\Users\ZXJ\Desktop\qbyp\qbyp\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-2.1.9_b9c25057cf0804768b8a24a098fdf729cc57298b\classes.dex" />
+    </item>
+
+</items>

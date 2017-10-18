@@ -1,0 +1,7 @@
+#Wed Oct 18 21:04:35 CST 2017
+base.0=C\:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_78fa96ce05a017bfb73f3831bd212ca1af7013dd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_dd562bf84980b9f65c1352df0498da83092ad8ae\\classes.dex
+base.1=C\:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_dd562bf84980b9f65c1352df0498da83092ad8ae
+file.0=C\:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_78fa96ce05a017bfb73f3831bd212ca1af7013dd\\classes.dex

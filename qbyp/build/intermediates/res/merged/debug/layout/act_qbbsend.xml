@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <include layout="@layout/head_operation" />
+
+    <TextView
+        android:id="@+id/tv_0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp"
+
+        android:text="柒宝币"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/tv_qibaobinum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_0"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="0"
+
+        android:textColor="#FF8C1B"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginTop="26dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/ed_username"
+            android:layout_width="0dp"
+            android:layout_height="44dp"
+            android:layout_weight="1"
+
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:hint="请输入获赠会员的手机号"
+            android:maxLength="15"
+            android:paddingLeft="20dp"
+            android:singleLine="true"
+            android:textColorHint="@color/text_c1"
+            android:textSize="@dimen/text_large_size" />
+
+        <ImageView
+            android:id="@+id/iv_select"
+            android:layout_width="64dp"
+            android:layout_height="match_parent"
+            android:paddingBottom="8dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="28dp"
+            android:paddingTop="8dp"
+            android:src="@drawable/gouser_icon" />
+    </LinearLayout>
+
+
+    <View style="@style/cutline_fine" />
+
+    <EditText
+        android:id="@+id/ed_num"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:hint="请输入转赠数量"
+        android:inputType="number"
+        android:maxLength="20"
+        android:paddingLeft="20dp"
+        android:singleLine="true"
+        android:textColorHint="@color/text_c1"
+        android:textSize="@dimen/text_large_size" />
+
+    <View style="@style/cutline_fine" />
+
+    <TextView
+        android:id="@+id/tv_ok"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="48dp"
+        android:background="@drawable/bg_yellow_shape"
+        android:gravity="center"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:text="确认转增"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_xlarge_size" />
+</LinearLayout>

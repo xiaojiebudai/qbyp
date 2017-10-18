@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/head_operation_search" />
+
+    <LinearLayout
+        android:id="@+id/ll_map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="280dp" >
+
+            <com.baidu.mapapi.map.MapView
+                android:id="@+id/baidumap"
+                android:layout_width="match_parent"
+                android:layout_height="280dp"
+                android:clickable="true" >
+            </com.baidu.mapapi.map.MapView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/icon_gcoding" />
+
+            <ImageView
+                android:id="@+id/location"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="bottom|left"
+                android:layout_marginBottom="50dp"
+                android:layout_marginLeft="10dp"
+                android:background="@color/text_c1"
+                android:padding="5dp"
+                android:src="@drawable/locationnow" />
+        </FrameLayout>
+
+    <ListView
+        android:id="@+id/listview_address"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@color/transparent"
+        android:listSelector="@color/transparent" >
+    </ListView>
+        
+    </LinearLayout>
+  <ListView
+        android:id="@+id/listview_address_search"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@color/transparent"
+        android:listSelector="@color/transparent" >
+    </ListView>
+        
+   
+
+</LinearLayout>

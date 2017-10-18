@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:hedgehog="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/head_operation"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:scrollbars="none"
+        android:layout_height="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_time" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:background="@color/white"
+                android:padding="10dp"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:id="@+id/iv_good_img"
+                   />
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:text="@string/evaluate"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/text_large_size"
+                        android:layout_marginTop="20dp"
+                        />
+                    <cn.net.chenbao.qbyp.view.RatingBar
+                        android:id="@+id/rb"
+                        android:layout_width="wrap_content"
+                        android:layout_height="30dp"
+                        hedgehog:clickable="true"
+                        hedgehog:starCount="5"
+                        android:layout_marginTop="10dp"
+                        hedgehog:starEmpty="@drawable/star_nor"
+                        hedgehog:starFill="@drawable/star_pre"
+                        hedgehog:starHalf="@drawable/start_half"
+                        hedgehog:starImageHeight="30dp"
+                        hedgehog:starImagePadding="8dp"
+                        hedgehog:starImageWidth="30dp" />
+                </LinearLayout>
+
+            </LinearLayout>
+            <EditText
+                android:id="@+id/ed_introduce"
+                android:layout_width="match_parent"
+                android:gravity="top"
+                android:padding="10dp"
+                android:maxLength="50"
+                android:background="@color/white"
+                android:layout_height="200dp"
+                android:hint="@string/evaluate_input_tips"
+                android:textSize="@dimen/text_large_size" />
+            <TextView
+                android:text="@string/can_input_tips"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:paddingRight="10dp"
+                android:paddingBottom="10dp"
+                android:textSize="@dimen/text_normal_size"
+                android:textColor="@color/text_gray_s"
+                android:background="@color/white"
+                android:id="@+id/tv_introduce_remain"
+            />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:layout_height="@dimen/common_select_bar_height">
+
+                <CheckBox
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/cb_no_name_comm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:textSize="16dp"
+                    android:layout_centerVertical="true"
+                    android:drawableLeft="@drawable/bg_check_box_register"
+                    android:textColor="@color/text_f7"
+                    android:drawablePadding="8dp"
+                    android:checked="true"
+                    android:text="@string/no_name_comm"
+                    android:button="@null" />
+
+            </LinearLayout>
+
+            <FrameLayout
+                android:id="@+id/image_fragment_container"
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/tv_commit"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_select_bar_height"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/textview_btn_comm_bg"
+        android:gravity="center"
+        android:text="@string/commit_comm"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_xlarge_size" />
+</LinearLayout>

@@ -1,0 +1,906 @@
+[
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\business_phone_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\business_phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_price_up_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_price_up_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_selected.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\btn_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guide.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\guide.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footed_merchant_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footed_merchant_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pull_down04.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\pull_down04.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\star_nor.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\star_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_agency.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_agency.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shop_download.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\shop_download.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_earnings_roundbg.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_earnings_roundbg.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_allorder_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_allorder_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shangpinzhuangtai_select.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\shangpinzhuangtai_select.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\startlogo.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\startlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\down_triangle.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\down_triangle.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\idcard_back.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\idcard_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_xianxiaorder_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_xianxiaorder_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\collect.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\collect.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_details_collect_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_details_collect_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash0.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\splash0.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_menu_search_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\top_menu_search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shangpinzhuangtai_nor.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\shangpinzhuangtai_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_back.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_ptr_rotate.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pull_down02.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\pull_down02.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_marka.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\icon_marka.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_vip_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_vip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\empty_grade_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\empty_grade_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ey_payment_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\ey_payment_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xiaodai_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\xiaodai_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footer_area_active_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footer_area_active_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\circle2_select.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\circle2_select.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\business_address_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\business_address_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fuwus_legalperson_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\fuwus_legalperson_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_details_shopcar_active_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_details_shopcar_active_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shoppingcat_unchecked_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\shoppingcat_unchecked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\address_green.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\address_green.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tuiguang_btnbg.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\tuiguang_btnbg.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_pulldown_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\list_pulldown_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pay_success.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\pay_success.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_details_collectcheck_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_details_collectcheck_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\erweima_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\erweima_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_fuwushang_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_fuwushang_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footer_area_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footer_area_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_fenxiaograde_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_fenxiaograde_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\activate_button.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\activate_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_menu_index_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\top_menu_index_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\area_icon2x.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\area_icon2x.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\order_jia.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\order_jia.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_uploadpictures_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_uploadpictures_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_fenxiaosecond_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_fenxiaosecond_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pay_fail.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\pay_fail.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fuwus_address_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\fuwus_address_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_index_shopingcart_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_index_shopingcart_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_yhsj.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\index_yhsj.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fuwus_store_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\fuwus_store_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\erweima_gray.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\erweima_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_index_allclassify_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_index_allclassify_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wechat_small.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\wechat_small.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_error.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\default_error.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zhuanmaidian_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\zhuanmaidian_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_pullup_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\list_pullup_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_purchaseorder_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_purchaseorder_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_light.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\scan_light.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guanlifenrun_bg.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\guanlifenrun_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_ptr_flip.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_order_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_order_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_earningsub_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_earningsub_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_deal_arrow_right.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\ic_deal_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wholeheart_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\wholeheart_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_menu_user_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\top_menu_user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footer_withdraw_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footer_withdraw_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jifen_tag.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\jifen_tag.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cricle_nor.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\cricle_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_order_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\top_order_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hongbao_no_text.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\hongbao_no_text.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\collect_pre.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\collect_pre.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\address_gray.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\address_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\collect_nor.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\collect_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete_gray.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\delete_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\inactive_button.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\inactive_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_receiving_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_receiving_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_xinfu_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\index_xinfu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\asy.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\asy.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\select_left.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\select_left.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cricle_pre.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\cricle_pre.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cricle_small_nor.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\cricle_small_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add_bank.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\add_bank.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xieyi_pre.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\xieyi_pre.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ey_order_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\ey_order_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_footer_home_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_footer_home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shoppingcat_nullity_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\shoppingcat_nullity_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alu.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\alu.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fuwus_calendar_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\fuwus_calendar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pay_select.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\pay_select.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_512.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\logo_512.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\locationnow.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\locationnow.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\person_nor.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\person_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_earningswithdraw_detail_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_earningswithdraw_detail_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\share_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wallet.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xiajia_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\xiajia_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_position_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\index_position_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_gcoding.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\icon_gcoding.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_shipments_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_shipments_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alp.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\alp.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\idcard_front.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\idcard_front.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_button.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\start_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_right.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\icon_right.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footer_shops_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footer_shops_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pull_down03.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\pull_down03.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_earningsjf_detail_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_earningsjf_detail_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footed_merchant_active_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footed_merchant_active_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_fenxiaototal_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_fenxiaototal_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_payment_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_payment_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_price_down_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_price_down_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_footer_user_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_footer_user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close_btn.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\close_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash1.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\splash1.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\backtotop_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\backtotop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\person_select.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\person_select.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\easy.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\easy.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footer_withdraw_active_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footer_withdraw_active_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\friends_circle.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\friends_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lodingfail.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\lodingfail.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_down.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_price_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_price_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\person_download.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\person_download.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bank_card.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\bank_card.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_fws_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_fws_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_salesorder_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_salesorder_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\store_bg.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\store_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_ey_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\index_ey_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_menu_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\top_menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_businessphone_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_businessphone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footer_order_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footer_order_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\integral_check_icon2x.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\integral_check_icon2x.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_fenxiaoconsumer_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_fenxiaoconsumer_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\indicator_arrow.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\accsessory_arrow_down.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\accsessory_arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\youfenx_shoppingcat_btn.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\youfenx_shoppingcat_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ey_allorder_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\ey_allorder_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_vip_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\index_vip_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footed_shoppingt_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footed_shoppingt_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete_samll.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\delete_samll.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pull_down01.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\pull_down01.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lodingfailh.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\lodingfailh.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vip_tag.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\vip_tag.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alq.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\alq.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pay_way_small.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\pay_way_small.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_markb.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\icon_markb.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shoppingcat_pitchon_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\shoppingcat_pitchon_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_unselected.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\btn_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footer_order_active_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footer_order_active_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_w.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\search_w.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fuwus_downarrow_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\fuwus_downarrow_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\totheshop_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\totheshop_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_right.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\unread_count_bg.9.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\unread_count_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_footer_home_active_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_footer_home_active_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\message_yellow.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\message_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shop.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\shop.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footed_shoppingt_active_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footed_shoppingt_active_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\star_pre.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\star_pre.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\integral_invalid_icon2x.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\integral_invalid_icon2x.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\haitaolabel_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\haitaolabel_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_img.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\default_img.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footer_shops_active_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footer_shops_active_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_half.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\start_half.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\select_right.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\select_right.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fenxiao_rule_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\fenxiao_rule_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_yellow_right.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\arrow_yellow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\order_jian.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\order_jian.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pull_black.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\pull_black.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shanchu_red.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\shanchu_red.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\text_indicator.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\text_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xieyi_nor.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\xieyi_nor.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xinfu_product_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\xinfu_product_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alt.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\alt.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fuwus_phone_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\fuwus_phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\friend_circle_ico02.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\friend_circle_ico02.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_mall_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\index_mall_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_details_shopcar_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_details_shopcar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gouser_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\gouser_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footed_fenxiao_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footed_fenxiao_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pay_yue.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\pay_yue.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_index_hot_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_index_hot_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_charge_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\index_charge_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit_small.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\edit_small.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\halfheart_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\halfheart_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mall_index_sale_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\mall_index_sale_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\friend_circle_ico01.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\friend_circle_ico01.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrows_down_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\arrows_down_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alipay_small.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\alipay_small.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shop_car_clear.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\shop_car_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zondai_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\zondai_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_earningswithdraw_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_earningswithdraw_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\empty_salesorder_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\empty_salesorder_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\accountsafe.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\accountsafe.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\integral_checked_icon2x.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\integral_checked_icon2x.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\index_yhsc.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\index_yhsc.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fuwus_uparrow_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\fuwus_uparrow_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ey_receiving_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\ey_receiving_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\grayheart_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\grayheart_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alr.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\alr.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\youfenx_product_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\youfenx_product_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\send_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\send_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_photo.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\default_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fuwus_checked_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\fuwus_checked_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_file_ok_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_file_ok_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shop_car.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\shop_car.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cricle_small_selector.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\cricle_small_selector.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_circle_header.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\bg_circle_header.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\footed_fenxiao_active_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\footed_fenxiao_active_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\message_white.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\message_white.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_check.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\default_check.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\als.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\als.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tuiguanerweim_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\tuiguanerweim_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ey_shipments_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\ey_shipments_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user_earnings_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\user_earnings_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\allsale_icon.png",
+        "source": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\src\\main\\res\\drawable-hdpi\\allsale_icon.png"
+    }
+]

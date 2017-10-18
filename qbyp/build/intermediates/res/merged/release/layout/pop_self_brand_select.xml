@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:src="@color/black_transparent_66"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/iv_black"
+        android:layout_weight="0.4" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:paddingLeft="10dp"
+        android:background="@color/white"
+        android:layout_weight="0.6">
+
+        <ImageView
+            android:layout_width="@dimen/common_select_bar_height"
+            android:layout_height="@dimen/common_select_bar_height"
+            android:id="@+id/iv_cancel"
+            android:layout_gravity="right"
+            android:padding="8dp"
+            android:src="@drawable/delete_gray"/>
+
+        <TextView
+            android:text="@string/brand"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+        <cn.net.chenbao.qbyp.view.AutoRankView
+            android:id="@+id/av"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"/>
+
+    </LinearLayout>
+</LinearLayout>

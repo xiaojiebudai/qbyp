@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_hot_search_selector"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:singleLine="true"
+    android:ellipsize="end"
+    android:text="@string/all"
+    android:textColor="@color/text_home_tab"
+    android:textSize="@dimen/text_normal_size" >
+
+</TextView>

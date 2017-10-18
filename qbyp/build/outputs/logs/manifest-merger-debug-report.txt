@@ -1,0 +1,1099 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:2:1-572:12
+	package
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:2:11-69
+permission#cn.net.chenbao.qbyp.permission.JPUSH_MESSAGE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:8:5-10:47
+	android:protectionLevel
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:9:9-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:12:22-75
+uses-permission#cn.net.chenbao.qbyp.permission.JPUSH_MESSAGE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:13:5-84
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:13:22-81
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:16:5-73
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:16:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:17:22-63
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:18:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:19:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:22:5-97
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:24:5-95
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:26:5-92
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:26:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:28:5-95
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:30:5-92
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:30:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:32:5-91
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:32:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:34:5-97
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:34:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:36:5-67
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:36:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:38:5-100
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:38:22-81
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:39:5-69
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:39:22-66
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:41:5-68
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:41:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:42:5-68
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:42:22-65
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:43:5-72
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:43:22-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:45:5-71
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:45:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:46:5-74
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:46:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:47:5-74
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:47:22-71
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:48:5-80
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:48:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:49:5-65
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:49:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:51:5-60
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:51:19-57
+uses-feature#android.hardware.autofocus
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:52:5-63
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:52:19-60
+application
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:54:5-570:19
+MERGED from [com.android.support:design:25.1.0] C:\Users\ZXJ\.android\build-cache\8b867a274c58744abfd697c2b68ff85c48ec26af\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\ZXJ\.android\build-cache\ca9b0e14025ebfc3d8674d4fc096de4a211086eb\output\AndroidManifest.xml:22:5-20
+MERGED from [com.github.johnpersano:supertoasts:2.0] C:\Users\ZXJ\.android\build-cache\12f8d7f6a616db722d7e539a4ff1fc9a8227c30d\output\AndroidManifest.xml:26:5-28:38
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\ZXJ\.android\build-cache\bf31af690209e5c46f64e635e1f53c0356e70a3d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\ZXJ\.android\build-cache\6955ffc7a7c152f63fcf5db5527c6c5f7a456474\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\ZXJ\.android\build-cache\d89f8fd6104e205fb26ef7f7c1507d291c21ee24\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\ZXJ\.android\build-cache\b0df61220b1d3931e257ebc738dbd7e1ac823f93\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\ZXJ\.android\build-cache\b35075e1b96ea1308920fdec507b2ed2961cd288\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\ZXJ\.android\build-cache\933ccd732c46c14e8845c9050703652437c7c812\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\ZXJ\.android\build-cache\9a0b2d0eddbbb67dd1cdd436a6efe1fecc757c82\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\ZXJ\.android\build-cache\f4f312f5012a0c2e342b3f062369f72deb5c2d7b\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\ZXJ\.android\build-cache\a3ba3ef0ebc142ce81b0663127e76f69e80a3f16\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:59:9-41
+	android:supportsRtl
+		ADDED from [com.github.johnpersano:supertoasts:2.0] C:\Users\ZXJ\.android\build-cache\12f8d7f6a616db722d7e539a4ff1fc9a8227c30d\output\AndroidManifest.xml:28:9-35
+	android:allowBackup
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:57:9-35
+	android:icon
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:58:9-38
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:60:9-44
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:56:9-57
+service#com.baidu.location.f
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:61:9-64:49
+	android:enabled
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:63:13-35
+	android:process
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:64:13-38
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:62:13-48
+meta-data#cn.net.chenbao.qbyp.GlideConfiguration
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:66:9-68:43
+	android:value
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:68:13-40
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:67:13-66
+meta-data#UMENG_APPKEY
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:70:9-72:66
+	android:value
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:72:13-53
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:71:13-40
+meta-data#UMENG_CHANNEL
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:73:9-75:46
+	android:value
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:75:13-33
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:74:13-41
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:77:9-79:64
+	android:value
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:79:13-61
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:78:13-52
+activity#com.umeng.socialize.editorpage.ShareActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:82:9-85:54
+	android:excludeFromRecents
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:84:13-46
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:85:13-51
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:83:13-72
+activity#cn.net.chenbao.qbyp.wxapi.WXEntryActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:87:9-92:75
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:91:13-49
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:90:13-36
+	android:configChanges
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:89:13-74
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:92:13-72
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:88:13-69
+activity#com.umeng.qq.tencent.AuthActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:96:9-108:20
+	android:launchMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:98:13-44
+	android:noHistory
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:99:13-37
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:97:13-61
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:100:13-107:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:101:17-69
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:101:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:103:17-76
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:103:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:104:17-78
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:104:27-75
+data
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:106:17-60
+	android:scheme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:106:23-57
+activity#com.umeng.qq.tencent.AssistActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:109:9-113:75
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:112:13-49
+	android:configChanges
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:111:13-74
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:113:13-72
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:110:13-63
+activity#cn.net.chenbao.qbyp.wxapi.WXPayEntryActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:117:9-122:75
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:121:13-49
+	android:launchMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:120:13-43
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:119:13-36
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:122:13-72
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:118:13-72
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:125:9-130:79
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:129:13-47
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:128:13-37
+	android:windowSoftInputMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:130:13-67
+	android:configChanges
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:127:13-85
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:126:13-60
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:133:9-136:61
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:135:13-37
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:136:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:134:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:139:9-150:20
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:142:13-37
+	android:configChanges
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:141:13-63
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:143:13-60
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:140:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+cn.net.chenbao.qbyp
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:144:13-149:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:145:17-75
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:145:25-72
+category#cn.net.chenbao.qbyp
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:148:17-64
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:148:27-61
+service#cn.jpush.android.service.DownloadService
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:152:9-155:48
+	android:enabled
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:154:13-35
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:155:13-37
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:153:13-68
+service#cn.jpush.android.service.PushService
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:159:9-169:19
+	android:enabled
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:161:13-35
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:162:13-37
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:160:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:163:13-168:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:164:17-75
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:164:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:165:17-73
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:165:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:166:17-78
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:166:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:167:17-76
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:167:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:173:9-182:19
+	android:enabled
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:175:13-35
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:176:13-36
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:174:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+cn.net.chenbao.qbyp
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:177:13-181:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:178:17-80
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:178:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:185:9-205:20
+	android:enabled
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:187:13-35
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:188:13-37
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:186:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+cn.net.chenbao.qbyp
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:189:13-193:29
+	android:priority
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:189:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:190:17-94
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:190:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:194:13-197:29
+action#android.intent.action.USER_PRESENT
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:195:17-77
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:195:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:196:17-79
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:196:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:199:13-204:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:200:17-78
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:200:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:201:17-80
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:201:25-77
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:208:9-210:40
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:210:13-37
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:209:13-66
+receiver#cn.net.chenbao.qbyp.receiver.MyReceiver
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:213:9-232:20
+	android:enabled
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:215:13-35
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:216:13-37
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:214:13-67
+intent-filter#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+cn.net.chenbao.qbyp
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:217:13-231:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:218:17-79
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:218:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:220:17-83
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:220:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:222:17-88
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:222:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:224:17-86
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:224:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:226:17-91
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:226:25-88
+action#cn.jpush.android.intent.CONNECTION
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:228:17-77
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:228:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:235:9-237:49
+	android:value
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:237:13-46
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:236:13-41
+meta-data#JPUSH_APPKEY
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:238:9-240:56
+	android:value
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:240:13-53
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:239:13-40
+activity#cn.net.chenbao.qbyp.activity.WelcomeActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:243:9-251:20
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:245:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:244:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:246:13-250:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:247:17-69
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:247:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:249:17-77
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:249:27-74
+activity#cn.net.chenbao.qbyp.activity.MainActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:252:9-261:20
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:255:13-49
+	android:launchMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:254:13-44
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:253:13-69
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:256:13-260:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:257:17-92
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:257:25-89
+activity#cn.net.chenbao.qbyp.activity.PersonalDataActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:262:9-264:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:264:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:263:13-77
+activity#cn.net.chenbao.qbyp.activity.AddBankActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:265:9-267:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:267:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:266:13-72
+activity#cn.net.chenbao.qbyp.activity.WithdrawActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:268:9-270:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:270:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:269:13-73
+activity#cn.net.chenbao.qbyp.activity.AddAddressActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:271:9-273:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:273:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:272:13-75
+activity#cn.net.chenbao.qbyp.activity.CategoryActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:274:9-276:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:276:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:275:13-73
+activity#cn.net.chenbao.qbyp.activity.SearchActiivty
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:277:9-279:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:279:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:278:13-71
+activity#cn.net.chenbao.qbyp.activity.SearchDataActiivty
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:280:9-283:76
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:282:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:283:13-64
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:281:13-75
+activity#cn.net.chenbao.qbyp.activity.RegisterActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:284:9-286:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:286:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:285:13-73
+activity#cn.net.chenbao.qbyp.activity.OrderDetailActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:287:9-289:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:289:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:288:13-76
+activity#cn.net.chenbao.qbyp.activity.LoginActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:290:9-293:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:293:13-49
+	android:launchMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:292:13-44
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:291:13-70
+activity#cn.net.chenbao.qbyp.activity.MakeSuerOrderActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:294:9-297:84
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:296:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:297:13-72
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:295:13-78
+activity#cn.net.chenbao.qbyp.activity.ShopCommentActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:298:9-300:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:300:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:299:13-76
+activity#cn.net.chenbao.qbyp.activity.VerifyPhoneNumberActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:301:9-303:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:303:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:302:13-82
+activity#cn.net.chenbao.qbyp.activity.StoreActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:304:9-306:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:306:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:305:13-70
+activity#cn.net.chenbao.qbyp.activity.PayOrdersActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:307:9-309:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:309:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:308:13-74
+activity#cn.net.chenbao.qbyp.activity.PayResultActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:310:9-312:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:312:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:311:13-74
+activity#cn.net.chenbao.qbyp.activity.SettingActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:313:9-315:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:315:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:314:13-72
+activity#cn.net.chenbao.qbyp.activity.EditUserNameActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:316:9-318:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:318:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:317:13-77
+activity#cn.net.chenbao.qbyp.activity.IdentityAuthenticationActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:319:9-321:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:321:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:320:13-87
+activity#cn.net.chenbao.qbyp.activity.OpenShopActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:322:9-324:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:324:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:323:13-73
+activity#cn.net.chenbao.qbyp.activity.SetPasswordActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:325:9-327:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:327:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:326:13-76
+activity#cn.net.chenbao.qbyp.activity.LocateActivityNew
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:328:9-330:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:330:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:329:13-74
+activity#cn.net.chenbao.qbyp.activity.FenrunDetailActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:331:9-333:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:333:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:332:13-77
+activity#cn.net.chenbao.qbyp.activity.BankListActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:334:9-336:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:336:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:335:13-73
+activity#cn.net.chenbao.qbyp.activity.PersonPublicListDesActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:337:9-339:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:339:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:338:13-84
+activity#cn.net.chenbao.qbyp.activity.CollectActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:340:9-342:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:342:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:341:13-72
+activity#cn.net.chenbao.qbyp.activity.MessageListActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:343:9-345:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:345:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:344:13-76
+activity#cn.net.chenbao.qbyp.activity.MyWalletActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:346:9-348:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:348:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:347:13-73
+activity#cn.net.chenbao.qbyp.activity.CircleFriendsActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:349:9-351:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:351:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:350:13-78
+activity#cn.net.chenbao.qbyp.activity.AddressListActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:352:9-354:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:354:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:353:13-76
+activity#cn.net.chenbao.qbyp.activity.WebViewActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:355:9-357:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:357:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:356:13-72
+activity#cn.net.chenbao.qbyp.imageSelector.MultiImageSelectorActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:358:9-360:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:360:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:359:13-88
+activity#cn.net.chenbao.qbyp.activity.EditPswActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:361:9-363:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:363:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:362:13-72
+activity#cn.net.chenbao.qbyp.activity.VerifyPasswordActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:364:9-367:70
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:366:13-49
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:367:13-58
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:365:13-79
+activity#cn.net.chenbao.qbyp.activity.ImageSelectActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:368:9-370:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:370:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:369:13-76
+activity#cn.net.chenbao.qbyp.activity.AccountSafeActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:371:9-373:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:373:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:372:13-76
+activity#cn.net.chenbao.qbyp.activity.RegionPickActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:374:9-377:59
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:376:13-49
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:377:13-47
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:375:13-75
+activity#cn.net.chenbao.qbyp.bigimage.ImagePagerActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:378:9-380:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:380:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:379:13-75
+activity#cn.net.chenbao.qbyp.activity.IdentityAuthenticationResultActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:381:9-383:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:383:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:382:13-93
+service#cn.net.chenbao.qbyp.service.UpdateVersionService
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:385:9-387:39
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:387:13-36
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:386:13-76
+activity#cn.net.chenbao.qbyp.activity.RedPacketActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:389:9-392:59
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:391:13-49
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:392:13-47
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:390:13-74
+activity#cn.net.chenbao.qbyp.activity.TBSWebViewActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:393:9-395:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:395:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:394:13-75
+activity#cn.net.chenbao.qbyp.activity.AgencyMainActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:396:9-398:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:398:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:397:13-75
+activity#cn.net.chenbao.qbyp.activity.AgencyWithdrawActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:399:9-401:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:401:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:400:13-79
+activity#cn.net.chenbao.qbyp.activity.AgencyMoneyDetailActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:402:9-404:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:404:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:403:13-82
+activity#cn.net.chenbao.qbyp.activity.AgencyMoneyDayDetailActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:405:9-407:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:407:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:406:13-85
+activity#cn.net.chenbao.qbyp.activity.AgencyDetailActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:408:9-410:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:410:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:409:13-77
+activity#cn.net.chenbao.qbyp.activity.AgencyShopDetailActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:411:9-413:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:413:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:412:13-81
+activity#cn.net.chenbao.qbyp.activity.AgencySellerMapActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:414:9-416:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:416:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:415:13-80
+activity#cn.net.chenbao.qbyp.activity.ShareActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:417:9-421:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:421:13-49
+	android:label
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:420:13-45
+	android:configChanges
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:419:13-57
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:418:13-70
+activity#cn.net.chenbao.qbyp.activity.SelfSupportCategoryActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:422:9-424:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:424:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:423:13-84
+activity#cn.net.chenbao.qbyp.activity.SelfSupportGoodsDetailActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:425:9-427:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:427:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:426:13-87
+activity#cn.net.chenbao.qbyp.activity.SelfSupportOrderDetailActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:428:9-430:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:430:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:429:13-87
+activity#cn.net.chenbao.qbyp.activity.SelfSupportMakesureOrderActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:431:9-434:76
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:433:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:434:13-64
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:432:13-89
+activity#cn.net.chenbao.qbyp.activity.SelfSupportOrderEvaluateActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:435:9-438:76
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:437:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:438:13-64
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:436:13-89
+activity#cn.net.chenbao.qbyp.activity.SelfSupportSearchDataActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:439:9-441:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:441:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:440:13-86
+activity#cn.net.chenbao.qbyp.activity.SelfSupportShopCartActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:442:9-445:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:445:13-49
+	android:launchMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:444:13-44
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:443:13-84
+activity#cn.net.chenbao.qbyp.activity.SelfSupportFollowDeliverActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:446:9-448:61
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:448:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:447:13-89
+activity#cn.net.chenbao.qbyp.activity.SelfSupportGoodsEvaluateListActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:449:9-451:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:451:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:450:13-93
+activity#cn.net.chenbao.qbyp.activity.AppVersionExplainActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:452:9-454:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:454:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:453:13-82
+activity#cn.net.chenbao.qbyp.activity.SelfSupportMainActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:455:9-458:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:458:13-49
+	android:launchMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:457:13-44
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:456:13-80
+activity#cn.net.chenbao.qbyp.activity.VipActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:459:9-462:72
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:461:13-49
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:462:13-69
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:460:13-68
+activity#cn.net.chenbao.qbyp.activity.RechargeActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:463:9-465:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:465:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:464:13-73
+activity#cn.net.chenbao.qbyp.activity.LocalLifeActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:466:9-468:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:468:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:467:13-74
+activity#cn.net.chenbao.qbyp.activity.LocalLifeOrderActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:469:9-471:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:471:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:470:13-79
+activity#cn.net.chenbao.qbyp.activity.SelfSupportOrderActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:472:9-474:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:474:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:473:13-81
+activity#cn.net.chenbao.qbyp.activity.SelfSupportActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:475:9-478:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:478:13-49
+	android:launchMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:477:13-44
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:476:13-76
+activity#cn.net.chenbao.qbyp.activity.HappyAreaActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:479:9-481:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:481:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:480:13-74
+activity#cn.net.chenbao.qbyp.activity.SelfSupportOrderActivity2
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:482:9-484:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:484:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:483:13-82
+activity#cn.net.chenbao.qbyp.activity.RechargeResultActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:486:9-488:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:488:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:487:13-79
+activity#cn.net.chenbao.qbyp.activity.OfflineOrderActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:489:9-491:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:491:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:490:13-77
+activity#cn.net.chenbao.qbyp.activity.ServiceProviderApplyActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:492:9-495:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:495:13-49
+	android:launchMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:494:13-44
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:493:13-85
+activity#cn.net.chenbao.qbyp.activity.PayFeeSuccessActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:496:9-499:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:499:13-49
+	android:launchMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:498:13-43
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:497:13-78
+activity#cn.net.chenbao.qbyp.activity.ServiceProviderShopListActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:500:9-502:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:502:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:501:13-88
+activity#cn.net.chenbao.qbyp.activity.ServiceProviderShopDetailActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:503:9-505:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:505:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:504:13-90
+activity#cn.net.chenbao.qbyp.activity.SplashActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:506:9-508:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:508:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:507:13-71
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:509:9-512:72
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:511:13-49
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:512:13-69
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:510:13-60
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:514:9-522:20
+	android:authorities
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:516:13-67
+	android:grantUriPermissions
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:518:13-47
+	android:exported
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:517:13-37
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:515:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:519:13-521:54
+	android:resource
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:521:17-51
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:520:17-67
+activity#cn.net.chenbao.qbyp.distribution.activity.DistributionLevelActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:524:9-526:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:526:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:525:13-95
+activity#cn.net.chenbao.qbyp.distribution.activity.DistributionWalletActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:527:9-529:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:529:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:528:13-96
+activity#cn.net.chenbao.qbyp.distribution.activity.DistributionOrderActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:530:9-532:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:532:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:531:13-95
+activity#cn.net.chenbao.qbyp.distribution.activity.DistributionOrderDetailActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:533:9-535:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:535:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:534:13-101
+activity#cn.net.chenbao.qbyp.distribution.activity.DistributionPublicListActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:536:9-538:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:538:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:537:13-100
+activity#cn.net.chenbao.qbyp.distribution.activity.DistributionSendPackageActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:539:9-541:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:541:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:540:13-101
+activity#cn.net.chenbao.qbyp.distribution.activity.DistributionGoodDetailActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:542:9-545:71
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:544:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:545:13-68
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:543:13-100
+activity#cn.net.chenbao.qbyp.distribution.activity.DistributionMakeSureOrderActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:546:9-549:70
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:548:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:549:13-67
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:547:13-103
+activity#cn.net.chenbao.qbyp.distribution.activity.DistributionOfflinePayActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:550:9-552:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:552:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:551:13-100
+activity#cn.net.chenbao.qbyp.distribution.activity.DistributionCertSuccessActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:553:9-555:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:555:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:554:13-101
+activity#cn.net.chenbao.qbyp.activity.EmptyViewActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:556:9-558:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:558:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:557:13-74
+activity#cn.net.chenbao.qbyp.distribution.activity.DistributionShopCartActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:559:9-561:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:561:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:560:13-98
+activity#cn.net.chenbao.qbyp.activity.QbbsendActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:562:9-564:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:564:13-49
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:563:13-72
+activity#cn.net.chenbao.qbyp.activity.JiFenShopActivity
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:565:9-568:52
+	android:screenOrientation
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:568:13-49
+	android:theme
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:567:13-69
+	android:name
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:566:13-74
+uses-sdk
+ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:571:5-100
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\ZXJ\.android\build-cache\54726af858f398b0f8bcfff580a35446c79d3e5c\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:design:25.1.0] C:\Users\ZXJ\.android\build-cache\8b867a274c58744abfd697c2b68ff85c48ec26af\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\ZXJ\.android\build-cache\f06139b954c803f74eab57ab05791459c82744ca\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] C:\Users\ZXJ\.android\build-cache\ca9b0e14025ebfc3d8674d4fc096de4a211086eb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.18] C:\Users\ZXJ\.android\build-cache\b869f864c8b29d6653a286b357ace229a0b6d30f\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\ZXJ\.android\build-cache\0325bc1f70e97ed8bf80a49b6cb513e65fcfd822\output\AndroidManifest.xml:7:5-9:41
+MERGED from [qbyp:ucrop:unspecified] C:\Users\ZXJ\Desktop\qbyp\ucrop\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\ZXJ\.android\build-cache\05eb5ee570a24c800d5fb4a554cf63376b88d530\output\AndroidManifest.xml:18:5-42
+MERGED from [com.github.johnpersano:supertoasts:2.0] C:\Users\ZXJ\.android\build-cache\12f8d7f6a616db722d7e539a4ff1fc9a8227c30d\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\ZXJ\.android\build-cache\bf31af690209e5c46f64e635e1f53c0356e70a3d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\ZXJ\.android\build-cache\6955ffc7a7c152f63fcf5db5527c6c5f7a456474\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\ZXJ\.android\build-cache\d89f8fd6104e205fb26ef7f7c1507d291c21ee24\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\ZXJ\.android\build-cache\b0df61220b1d3931e257ebc738dbd7e1ac823f93\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\ZXJ\.android\build-cache\b35075e1b96ea1308920fdec507b2ed2961cd288\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\ZXJ\.android\build-cache\933ccd732c46c14e8845c9050703652437c7c812\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\ZXJ\.android\build-cache\9a0b2d0eddbbb67dd1cdd436a6efe1fecc757c82\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\ZXJ\.android\build-cache\f4f312f5012a0c2e342b3f062369f72deb5c2d7b\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\ZXJ\.android\build-cache\a3ba3ef0ebc142ce81b0663127e76f69e80a3f16\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml:571:15-97
+	android:targetSdkVersion
+		INJECTED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ZXJ\Desktop\qbyp\qbyp\src\main\AndroidManifest.xml

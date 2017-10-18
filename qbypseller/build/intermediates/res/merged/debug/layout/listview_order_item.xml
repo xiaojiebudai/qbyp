@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:divider="@drawable/cutline_fine"
+    android:orientation="vertical"
+     >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:paddingBottom="10dp"
+        android:paddingLeft="@dimen/common_padding"
+        android:paddingRight="@dimen/common_padding"
+        android:paddingTop="10dp" >
+
+        <ImageView
+            android:id="@+id/iv_image"
+            android:layout_width="@dimen/common_image_size"
+            android:layout_height="@dimen/common_image_size"
+            android:scaleType="centerCrop" 
+            android:layout_marginRight="10dp"/>
+
+        <TextView
+            android:id="@+id/tv_order_info"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_toRightOf="@id/iv_image"
+            android:gravity="center_vertical"
+            />
+
+        <TextView
+            android:id="@+id/tv_order_time"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_below="@id/tv_order_info"
+            android:layout_toRightOf="@id/iv_image"
+            android:gravity="center_vertical"
+            android:textColor="@color/gray_text_c4"
+           />
+
+
+        <TextView
+            android:id="@+id/tv_order_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:gravity="center"
+            android:includeFontPadding="false"
+            android:text="@string/wait_receive_order" />
+    </RelativeLayout>
+    <View
+        style="@style/cutline_fine"/>
+
+    <TextView
+        android:id="@+id/tv_order_money"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/white"
+        android:gravity="right|center_vertical"
+        android:paddingRight="@dimen/common_padding"
+        android:textColor="@color/yellow_ww" />
+
+</LinearLayout>

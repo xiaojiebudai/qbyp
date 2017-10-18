@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZXJ\\Desktop\\qbyp\\qbyp\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ZXJ\\.android\\build-cache\\bf31af690209e5c46f64e635e1f53c0356e70a3d\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    }
+]
